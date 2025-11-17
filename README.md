@@ -60,4 +60,4 @@ cd Customer-Churn-ml
 
 ---
 
-If you want, send me a screenshot of your README editing page and I will tell you exactly where to paste.
+
