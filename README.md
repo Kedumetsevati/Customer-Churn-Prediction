@@ -58,15 +58,6 @@ Organized for real-world production and easy maintenance.
 git clone https://github.com/Kedumetsevati/Customer-Churn-ml.git
 cd Customer-Churn-ml
 
-5. Scroll down → click **Commit changes**
-
----
-
-# ⭐ Important  
-The `git clone` commands are just *instructions for users* of your project.  
-You are **not** supposed to run those commands now.  
-They belong in your **README** only.
-
 ---
 
 If you want, send me a screenshot of your README editing page and I will tell you exactly where to paste.
